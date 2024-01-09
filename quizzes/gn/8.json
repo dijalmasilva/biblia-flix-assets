@@ -1,0 +1,176 @@
+{
+  "title": "Quiz - Gênesis 4 ao 8",
+  "requiredRead": [
+    "gn-4", "gn-5", "gn-6", "gn-7", "gn-8"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual o nome do primeiro filho de Adão e Eva?",
+      "options": [
+        "Caim",
+        "Abel",
+        "Sete",
+        "Enoque"
+      ],
+      "answer": "Caim",
+      "reference": "Gênesis 4:1",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Porque Deus não aceitou a oferta de Caim?",
+        "options": [
+            "Porque Caim não ofereceu o melhor do seu rebanho",
+            "Porque Caim não ofereceu o melhor dos seus frutos",
+            "Porque Caim não ofereceu o melhor dos seus grãos",
+            "Porque Caim não ofereceu o melhor dos seus animais"
+        ],
+        "answer": "Porque Caim não ofereceu o melhor dos seus frutos",
+        "reference": "Gênesis 4:3-5",
+        "note": "",
+        "difficulty": "easy"
+    },
+    {
+      "id": 3,
+        "question": "Qual o nome do terceiro filho de Adão e Eva?",
+        "options": [
+            "Caim",
+            "Abel",
+            "Sete",
+            "Enoque"
+        ],
+        "answer": "Sete",
+        "reference": "Gênesis 4:25",
+        "note": "",
+        "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "Qual maldição Deus deu a Caim?",
+        "options": [
+            "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante na terra",
+            "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante no deserto",
+            "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante no campo",
+            "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante na floresta"
+        ],
+        "answer": "Caim não poderia mais andar sobre a terra",
+        "reference": "Gênesis 4:11-12",
+        "note": "",
+        "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "Quem foi arrebatado por Deus?",
+        "options": [
+            "Caim",
+            "Abel",
+            "Sete",
+            "Enoque"
+        ],
+        "answer": "Enoque",
+        "reference": "Gênesis 5:24",
+        "note": "",
+        "difficulty": "medium"
+    },
+    {
+      "id": 6,
+        "question": "Quem foi o pai de Noé?",
+        "options": [
+            "Matusalém",
+            "Lameque",
+            "Meteusalém",
+            "Enoque"
+        ],
+        "answer": "Lameque",
+        "reference": "Gênesis 5:28-29",
+        "note": "",
+        "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Quem eram os três filhos de Noé?",
+      "options": [
+        "Sem, Cam e Jafé",
+        "Abel, Caim e Sete",
+        "Abraão, Isaque e Jacó",
+        "Rubem, Simeão e Levi"
+      ],
+      "answer": "Sem, Cam e Jafé",
+      "reference": "Gênesis 6:10",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "Qual foi a instrução específica de Deus para Noé a respeito do material para construir a arca?",
+      "options": [
+        "Usar madeira de cedro",
+        "Usar madeira de gófer",
+        "Revestir a arca com ouro",
+        "Usar pedras e argamassa"
+      ],
+      "answer": "Usar madeira de gófer",
+      "reference": "Gênesis 6:14",
+      "note": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "question": "Qual era a idade de Noé quando o dilúvio começou?",
+      "options": [
+        "500 anos",
+        "600 anos",
+        "700 anos",
+        "800 anos"
+      ],
+      "answer": "600 anos",
+      "reference": "Gênesis 7:6",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "Quanto tempo durou o dilúvio sobre a terra?",
+      "options": [
+        "40 dias e 40 noites",
+        "150 dias",
+        "365 dias",
+        "100 anos"
+      ],
+      "answer": "150 dias",
+      "reference": "Gênesis 7:24",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "Qual foi o primeiro pássaro que Noé soltou da arca após o dilúvio?",
+      "options": [
+        "Um corvo",
+        "Uma pomba",
+        "Um falcão",
+        "Uma águia"
+      ],
+      "answer": "Um corvo",
+      "reference": "Gênesis 8:7",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "O que Noé fez assim que saiu da arca?",
+      "options": [
+        "Plantou uma vinha",
+        "Construiu um altar",
+        "Escreveu um livro",
+        "Viajou para o leste"
+      ],
+      "answer": "Construiu um altar",
+      "reference": "Gênesis 8:20",
+      "note": "",
+      "difficulty": "easy"
+    }
+  ]
+}
