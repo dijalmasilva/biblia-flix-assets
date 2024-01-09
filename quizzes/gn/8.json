@@ -1,7 +1,11 @@
 {
   "title": "Quiz - Gênesis 4 ao 8",
   "requiredRead": [
-    "gn-4", "gn-5", "gn-6", "gn-7", "gn-8"
+    "gn-4",
+    "gn-5",
+    "gn-6",
+    "gn-7",
+    "gn-8"
   ],
   "questions": [
     {
@@ -20,73 +24,73 @@
     },
     {
       "id": 2,
-      "question": "Porque Deus não aceitou a oferta de Caim?",
-        "options": [
-            "Porque Caim não ofereceu o melhor do seu rebanho",
-            "Porque Caim não ofereceu o melhor dos seus frutos",
-            "Porque Caim não ofereceu o melhor dos seus grãos",
-            "Porque Caim não ofereceu o melhor dos seus animais"
-        ],
-        "answer": "Porque Caim não ofereceu o melhor dos seus frutos",
-        "reference": "Gênesis 4:3-5",
-        "note": "",
-        "difficulty": "easy"
+      "question": "Por que Deus não aceitou a oferta de Caim?",
+      "options": [
+        "Porque Caim ofereceu frutos, mas não os primeiros e melhores",
+        "Porque a oferta de Caim foi apresentada sem fé",
+        "Porque Caim ofereceu frutos, mas não incluiu sacrifício animal",
+        "Porque a oferta de Caim foi feita em um altar inadequado"
+      ],
+      "answer": "Porque Caim ofereceu frutos, mas não os primeiros e melhores",
+      "reference": "Gênesis 4:3-5",
+      "note": "",
+      "difficulty": "easy"
     },
     {
       "id": 3,
-        "question": "Qual o nome do terceiro filho de Adão e Eva?",
-        "options": [
-            "Caim",
-            "Abel",
-            "Sete",
-            "Enoque"
-        ],
-        "answer": "Sete",
-        "reference": "Gênesis 4:25",
-        "note": "",
-        "difficulty": "medium"
+      "question": "Qual o nome do terceiro filho de Adão e Eva?",
+      "options": [
+        "Caim",
+        "Abel",
+        "Sete",
+        "Enoque"
+      ],
+      "answer": "Sete",
+      "reference": "Gênesis 4:25",
+      "note": "",
+      "difficulty": "medium"
     },
     {
       "id": 4,
       "question": "Qual maldição Deus deu a Caim?",
-        "options": [
-            "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante na terra",
-            "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante no deserto",
-            "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante no campo",
-            "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante na floresta"
-        ],
-        "answer": "Caim não poderia mais andar sobre a terra",
-        "reference": "Gênesis 4:11-12",
-        "note": "",
-        "difficulty": "medium"
+      "options": [
+        "Caim seria invisível aos olhos dos homens e viveria na solidão",
+        "Caim seria transformado em uma criatura da noite, temida por todos",
+        "Caim não poderia mais falar e viveria em silêncio eterno",
+        "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante na terra"
+      ],
+      "answer": "Quando Caim lavrasse a terra, ela não daria mais o seu fruto, e ele seria fugitivo e errante na terra",
+      "reference": "Gênesis 4:11-12",
+      "note": "",
+      "difficulty": "medium"
     },
     {
       "id": 5,
       "question": "Quem foi arrebatado por Deus?",
-        "options": [
-            "Caim",
-            "Abel",
-            "Sete",
-            "Enoque"
-        ],
-        "answer": "Enoque",
-        "reference": "Gênesis 5:24",
-        "note": "",
-        "difficulty": "medium"
+      "options": [
+        "Caim",
+        "Abel",
+        "Sete",
+        "Enoque"
+      ],
+      "answer": "Enoque",
+      "reference": "Gênesis 5:24",
+      "note": "",
+      "difficulty": "medium"
     },
     {
       "id": 6,
-        "question": "Quem foi o pai de Noé?",
-        "options": [
-            "Matusalém",
-            "Lameque",
-            "Meteusalém",
-            "Enoque"
-        ],
-        "answer": "Lameque",
-        "reference": "Gênesis 5:28-29",
-        "note": "",
-        "difficulty": "medium"
+      "question": "Quem foi o pai de Noé?",
+      "options": [
+        "Matusalém",
+        "Lameque",
+        "Meteusalém",
+        "Enoque"
+      ],
+      "answer": "Lameque",
+      "reference": "Gênesis 5:28-29",
+      "note": "",
+      "difficulty": "medium"
     },
     {
       "id": 7,
@@ -114,7 +118,7 @@
       "answer": "Usar madeira de gófer",
       "reference": "Gênesis 6:14",
       "note": "",
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "id": 9,
