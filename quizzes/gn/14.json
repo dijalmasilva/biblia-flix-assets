@@ -1,0 +1,153 @@
+{
+  "title": "Quiz - Gênesis 9 ao 14",
+  "requiredRead": [
+    "gn-9",
+    "gn-10",
+    "gn-11",
+    "gn-12",
+    "gn-13",
+    "gn-14"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Que tipo de aliança Deus estabeleceu com Noé após o dilúvio?",
+      "options": [
+        "Uma aliança de guerra",
+        "Uma aliança de prosperidade",
+        "Uma aliança de paz com todos os seres vivos",
+        "Uma aliança de sabedoria"
+      ],
+      "answer": "Uma aliança de paz com todos os seres vivos",
+      "reference": "Gênesis 9:11",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "O que aconteceu com Noé após ter plantado uma vinha?",
+      "options": [
+        "Ele se tornou um comerciante de vinho",
+        "Ele abençoou a terra",
+        "Ele ficou embriagado e foi ridicularizado por seu filho",
+        "Ele construiu uma cidade"
+      ],
+      "answer": "Ele ficou embriagado e foi ridicularizado por seu filho",
+      "reference": "Gênesis 9:20-22",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "O que os homens tentaram construir na cidade de Babel?",
+      "options": [
+        "Uma ponte para o céu",
+        "Uma grande arca",
+        "Uma torre que alcançasse os céus",
+        "Um grande palácio"
+      ],
+      "answer": "Uma torre que alcançasse os céus",
+      "reference": "Gênesis 11:4",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Qual foi a consequência da construção da Torre de Babel?",
+      "options": [
+        "Deus abençoou a cidade",
+        "Deus confundiu a linguagem dos povos",
+        "A torre foi destruída por um terremoto",
+        "Os construtores foram transformados em estátuas de sal"
+      ],
+      "answer": "Deus confundiu a linguagem dos povos",
+      "reference": "Gênesis 11:7-9",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "Para qual terra Deus chamou Abrão para ir?",
+      "options": [
+        "Egito",
+        "Canaã",
+        "Mesopotâmia",
+        "Jerusalém"
+      ],
+      "answer": "Canaã",
+      "reference": "Gênesis 12:1",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "O que Abrão fez quando chegou ao Egito, temendo pela sua vida?",
+      "options": [
+        "Disse que Sarai era sua irmã",
+        "Escondeu-se dos egípcios",
+        "Construiu um altar para Deus",
+        "Fugiu de volta para Harã"
+      ],
+      "answer": "Disse que Sarai era sua irmã",
+      "reference": "Gênesis 12:11-13",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "Como Abrão e Ló resolveram a disputa por terras?",
+      "options": [
+        "Dividindo a terra igualmente",
+        "Tirando a sorte",
+        "Abrão permitiu que Ló escolhesse primeiro",
+        "Abrão escolheu a planície do Jordão"
+      ],
+      "answer": "Abrão permitiu que Ló escolhesse primeiro",
+      "reference": "Gênesis 13:8-11",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "Após a separação de Ló, o que Deus prometeu a Abrão?",
+      "options": [
+        "Grande riqueza e reinos",
+        "Uma grande descendência e a terra que ele via",
+        "Sabedoria e longevidade",
+        "Proteção contra seus inimigos"
+      ],
+      "answer": "Uma grande descendência e a terra que ele via",
+      "reference": "Gênesis 13:14-16",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "question": "Quem Abrão resgatou na batalha dos reis?",
+      "options": [
+        "Ló",
+        "Sarai",
+        "Isaque",
+        "Melquisedeque"
+      ],
+      "answer": "Ló",
+      "reference": "Gênesis 14:12-16",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Quem era o rei de Salém que abençoou Abrão?",
+      "options": [
+        "Bera",
+        "Birsa",
+        "Melquisedeque",
+        "Amrafel"
+      ],
+      "answer": "Melquisedeque",
+      "reference": "Gênesis 14:18",
+      "note": "",
+      "difficulty": "medium"
+    }
+  ]
+}
