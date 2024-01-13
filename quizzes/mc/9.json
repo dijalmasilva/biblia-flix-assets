@@ -1,0 +1,240 @@
+{
+  "title": "Quiz - Marcos 1 ao 9",
+  "requiredRead": [
+    "mc-1",
+    "mc-2",
+    "mc-3",
+    "mc-4",
+    "mc-5",
+    "mc-6",
+    "mc-7",
+    "mc-8",
+    "mc-9"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quem aparece pregando no deserto no início do livro de Marcos?",
+      "options": [
+        "Jesus",
+        "Pedro",
+        "João Batista",
+        "Paulo"
+      ],
+      "answer": "João Batista",
+      "reference": "Marcos 1:4",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "O que Jesus disse quando começou a pregar em Marcos?",
+      "options": [
+        "Amai-vos uns aos outros",
+        "O Reino de Deus está próximo",
+        "Eu sou a luz do mundo",
+        "Arrependei-vos e crede no evangelho"
+      ],
+      "answer": "Arrependei-vos e crede no evangelho",
+      "reference": "Marcos 1:15",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Quem Jesus curou na casa de Pedro?",
+      "options": [
+        "Um leproso",
+        "A sogra de Pedro",
+        "Um paralítico",
+        "Um cego"
+      ],
+      "answer": "A sogra de Pedro",
+      "reference": "Marcos 1:30-31",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "Por que os escribas criticaram Jesus em Marcos 2?",
+      "options": [
+        "Por pregar no templo",
+        "Por perdoar pecados",
+        "Por jejuar pouco",
+        "Por andar no mar"
+      ],
+      "answer": "Por perdoar pecados",
+      "reference": "Marcos 2:7",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "Quem Jesus escolheu como um dos doze discípulos, apesar de ser um cobrador de impostos?",
+      "options": [
+        "Mateus",
+        "Marcos",
+        "Lucas",
+        "João"
+      ],
+      "answer": "Mateus",
+      "reference": "Marcos 2:14",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "O que Jesus disse sobre a parábola do semeador?",
+      "options": [
+        "A semente é a palavra de Deus",
+        "O semeador é o Filho do Homem",
+        "Os pássaros são os demônios",
+        "Todas as opções estão corretas"
+      ],
+      "answer": "A semente é a palavra de Deus",
+      "reference": "Marcos 4:14",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Quem Jesus ressuscitou da morte em Marcos 5?",
+      "options": [
+        "O filho da viúva de Naim",
+        "Lázaro",
+        "A filha de Jairo",
+        "Tabita"
+      ],
+      "answer": "A filha de Jairo",
+      "reference": "Marcos 5:41-42",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "Como Jesus alimentou 5000 pessoas em Marcos 6?",
+      "options": [
+        "Multiplicando pães e peixes",
+        "Transformando pedras em pão",
+        "Orando por um milagre",
+        "Pedindo ajuda aos discípulos"
+      ],
+      "answer": "Multiplicando pães e peixes",
+      "reference": "Marcos 6:41-44",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "O que Jesus disse sobre o que contamina uma pessoa em Marcos 7?",
+      "options": [
+        "Comer sem lavar as mãos",
+        "O que sai da boca, não o que entra",
+        "Desobedecer aos pais",
+        "Roubar e mentir"
+      ],
+      "answer": "O que sai da boca, não o que entra",
+      "reference": "Marcos 7:15",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "Quem Pedro confessou que Jesus era, em Marcos 8?",
+      "options": [
+        "O Messias",
+        "Um grande profeta",
+        "O filho de Davi",
+        "O rei dos Judeus"
+      ],
+      "answer": "O Messias",
+      "reference": "Marcos 8:29",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "question": "O que aconteceu no monte da transfiguração em Marcos 9?",
+      "options": [
+        "Moisés e Elias apareceram",
+        "Jesus brilhou como o sol",
+        "Uma voz do céu falou",
+        "Todas as opções estão corretas"
+      ],
+      "answer": "Todas as opções estão corretas",
+      "reference": "Marcos 9:2-7",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Como Jesus ensinou sobre receber o Reino de Deus em Marcos 9?",
+      "options": [
+        "Como um líder poderoso",
+        "Como uma criança",
+        "Com grande conhecimento",
+        "Com muitas riquezas"
+      ],
+      "answer": "Como uma criança",
+      "reference": "Marcos 9:36-37",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "Como Jesus curou o homem da mão ressequida em Marcos 3?",
+      "options": [
+        "Tocando na sua mão",
+        "Mandando lavar no rio",
+        "Orando em silêncio",
+        "Dizendo 'Estenda a mão'"
+      ],
+      "answer": "Dizendo 'Estenda a mão'",
+      "reference": "Marcos 3:5",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "Em Marcos 3, por que Jesus nomeou doze apóstolos?",
+      "options": [
+        "Para ensinar nas sinagogas",
+        "Para curar doenças",
+        "Para pregar e expulsar demônios",
+        "Para coletar ofertas"
+      ],
+      "answer": "Para pregar e expulsar demônios",
+      "reference": "Marcos 3:14-15",
+      "note": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "question": "O que Jesus comparou ao Reino de Deus em Marcos 4?",
+      "options": [
+        "Uma pérola de grande valor",
+        "Um tesouro escondido",
+        "Um grão de mostarda",
+        "Um campo de trigo"
+      ],
+      "answer": "Um grão de mostarda",
+      "reference": "Marcos 4:30-32",
+      "note": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "Em Marcos 5, de que Jesus libertou um homem na região dos gerasenos?",
+      "options": [
+        "De uma doença incurável",
+        "De uma paralisia",
+        "De uma legião de demônios",
+        "De uma cegueira"
+      ],
+      "answer": "De uma legião de demônios",
+      "reference": "Marcos 5:9",
+      "note": "",
+      "difficulty": "easy"
+    }
+  ]
+}
